@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="677" height="577" viewBox="0 0 677 577">
+<defs>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,0,577)" d="M57.54 41.04H521.63V549.06H57.54Z"/>
+</clipPath>
+</defs>
+<path transform="matrix(1,0,0,-1,0,577)" d="M-0 0H677.25V577.5H-0Z" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,577)" stroke-width="1.36" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#ffffff" d="M-0 0H677.25V577.5H-0Z"/>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(1,0,0,-1,0,577)" d="M57.54 41.04H521.63V549.06H57.54Z" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,577)" d="M89.18 370.82H279.04V525.97H89.18Z" fill="#fbb4ae"/>
+<path transform="matrix(1,0,0,-1,0,577)" stroke-width=".43" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M89.18 370.82H279.04V525.97H89.18Z"/>
+<path transform="matrix(1,0,0,-1,0,577)" d="M89.18 172.38H279.04V370.83003H89.18Z" fill="#b3cde3"/>
+<path transform="matrix(1,0,0,-1,0,577)" stroke-width=".43" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M89.18 172.38H279.04V370.83003H89.18Z"/>
+<path transform="matrix(1,0,0,-1,0,577)" d="M89.18 89.39H279.04V172.38H89.18Z" fill="#ccebc5"/>
+<path transform="matrix(1,0,0,-1,0,577)" stroke-width=".43" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M89.18 89.39H279.04V172.38H89.18Z"/>
+<path transform="matrix(1,0,0,-1,0,577)" d="M89.18 64.13H279.04V89.39H89.18Z" fill="#decbe4"/>
+<path transform="matrix(1,0,0,-1,0,577)" stroke-width=".43" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M89.18 64.13H279.04V89.39H89.18Z"/>
+<path transform="matrix(1,0,0,-1,0,577)" d="M300.13 411.02H489.99V525.98H300.13Z" fill="#fbb4ae"/>
+<path transform="matrix(1,0,0,-1,0,577)" stroke-width=".43" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M300.13 411.02H489.99V525.98H300.13Z"/>
+<path transform="matrix(1,0,0,-1,0,577)" d="M300.13 193.2H489.99V411.01H300.13Z" fill="#b3cde3"/>
+<path transform="matrix(1,0,0,-1,0,577)" stroke-width=".43" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M300.13 193.2H489.99V411.01H300.13Z"/>
+<path transform="matrix(1,0,0,-1,0,577)" d="M300.13 90.35H489.99V193.20999H300.13Z" fill="#ccebc5"/>
+<path transform="matrix(1,0,0,-1,0,577)" stroke-width=".43" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M300.13 90.35H489.99V193.20999H300.13Z"/>
+<path transform="matrix(1,0,0,-1,0,577)" d="M300.13 64.13H489.99V90.35H300.13Z" fill="#decbe4"/>
+<path transform="matrix(1,0,0,-1,0,577)" stroke-width=".43" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M300.13 64.13H489.99V90.35H300.13Z"/>
+</g>
+<path transform="matrix(1,0,0,-1,0,577)" stroke-width="1.36" stroke-linecap="square" stroke-linejoin="round" fill="none" stroke="#000000" d="M57.54 41.04V549.06"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 577)" font-size="11" font-family="Nimbus Sans"><tspan y="-60.18" x="35.37 41.486">0%</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 577)" font-size="11" font-family="Nimbus Sans"><tspan y="-175.64" x="29.25 35.366 41.482004">25%</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 577)" font-size="11" font-family="Nimbus Sans"><tspan y="-291.1" x="29.25 35.366 41.482004">50%</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 577)" font-size="11" font-family="Nimbus Sans"><tspan y="-406.56" x="29.25 35.366 41.482004">75%</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 577)" font-size="11" font-family="Nimbus Sans"><tspan y="-522.02" x="23.14 29.256 35.372 41.488004">100%</tspan></text>
+<path transform="matrix(1,0,0,-1,0,577)" stroke-width="1.36" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M54.05 64.13H57.54"/>
+<path transform="matrix(1,0,0,-1,0,577)" stroke-width="1.36" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M54.05 179.59H57.54"/>
+<path transform="matrix(1,0,0,-1,0,577)" stroke-width="1.36" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M54.05 295.05H57.54"/>
+<path transform="matrix(1,0,0,-1,0,577)" stroke-width="1.36" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M54.05 410.51H57.54"/>
+<path transform="matrix(1,0,0,-1,0,577)" stroke-width="1.36" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M54.05 525.97H57.54"/>
+<path transform="matrix(1,0,0,-1,0,577)" stroke-width="1.36" stroke-linecap="square" stroke-linejoin="round" fill="none" stroke="#000000" d="M57.54 41.04H521.63"/>
+<path transform="matrix(1,0,0,-1,0,577)" stroke-width="1.36" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M184.11 37.55V41.04"/>
+<path transform="matrix(1,0,0,-1,0,577)" stroke-width="1.36" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M395.06 37.55V41.04"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 577)" font-size="11" font-family="Nimbus Sans"><tspan y="-26.86" x="151 157.116 163.232 166.29 172.40599 178.52199 184.63799 187.69599 193.81198 199.92798 205.87899 211.10399">23 and above</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 577)" font-size="11" font-family="Nimbus Sans"><tspan y="-26.86" x="372.52 379.857 385.973 388.41499 394.36598 402.30796 405.36598 411.48197">Below 23</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 577)" font-size="14" font-family="Nimbus Sans" font-weight="bold"><tspan y="-9.97" x="253.49 263.598 272.292 280.076 283.968 294.86 300.026 308.58 317.13398">Age Group</tspan></text>
+<text xml:space="preserve" transform="matrix(0 -1 1 0 0 577)" font-size="14" font-family="Nimbus Sans" font-weight="bold"><tspan y="17.03" x="202.83 211.748 219.532 224.698 232.482 240.26599 248.81999 253.482 261.12599 269.81999 277.60398 281.49598 290.04997 294.71195 298.60395 308.71195 316.49595 324.27995 332.83393 341.3879 349.9419 358.49589 366.27989 374.83387 379.49586">Percentage of Respondents</tspan></text>
+<path transform="matrix(1,0,0,-1,0,577)" d="M535.58 242.91H670.28V347.2H535.58Z" fill="#ffffff"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 577)" font-size="14" font-family="Nimbus Sans"><tspan y="-328.07" x="542.55 552.65798 560.44198 563.5499 566.6579 573.6579 577.5499 586.88796 594.67196 602.45596 610.2399 618.0239 621.91598 632.0239 639.0239 646.8079 654.5919">Daily Phone Usage</tspan></text>
+<path transform="matrix(1,0,0,-1,0,577)" d="M542.55 301.72H559.83V319H542.55Z" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,577)" d="M542.84 302H559.55007V318.71H542.84Z" fill="#fbb4ae"/>
+<path transform="matrix(1,0,0,-1,0,577)" stroke-width=".43" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M542.84 302H559.55007V318.71H542.84Z"/>
+<path transform="matrix(1,0,0,-1,0,577)" d="M542.55 284.44H559.83V301.72H542.55Z" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,577)" d="M542.84 284.72H559.55007V301.43H542.84Z" fill="#b3cde3"/>
+<path transform="matrix(1,0,0,-1,0,577)" stroke-width=".43" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M542.84 284.72H559.55007V301.43H542.84Z"/>
+<path transform="matrix(1,0,0,-1,0,577)" d="M542.55 267.16H559.83V284.44H542.55Z" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,577)" d="M542.84 267.44H559.55007V284.15H542.84Z" fill="#ccebc5"/>
+<path transform="matrix(1,0,0,-1,0,577)" stroke-width=".43" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M542.84 267.44H559.55007V284.15H542.84Z"/>
+<path transform="matrix(1,0,0,-1,0,577)" d="M542.55 249.88H559.83V267.16H542.55Z" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,577)" d="M542.84 250.16H559.55007V266.87H542.84Z" fill="#decbe4"/>
+<path transform="matrix(1,0,0,-1,0,577)" stroke-width=".43" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M542.84 250.16H559.55007V266.87H542.84Z"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 577)" font-size="11" font-family="Nimbus Sans"><tspan y="-306.41" x="566.81 572.926 579.35006 582.408 588.52407 591.58206 597.69808 603.8141 609.9301 613.59317">0&#x2212; 4 hours</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 577)" font-size="11" font-family="Nimbus Sans"><tspan y="-289.13" x="566.81 572.926 579.35006 585.46609 588.52407 596.46609 602.5821 608.6981 612.36117">4&#x2212;8 Hours</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 577)" font-size="11" font-family="Nimbus Sans"><tspan y="-271.85" x="566.81 572.926 579.35006 582.408 588.52407 594.6401 597.69808 603.8141 609.9301 616.04617 619.70919">8&#x2212; 11 hours</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 577)" font-size="11" font-family="Nimbus Sans"><tspan y="-254.57" x="566.81 574.147 580.263 586.21408 591.439 597.55508 600.61306 606.72909 612.8451 615.9031 622.0191 628.13516 634.25119 637.9142">Above 11 hours</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 577)" font-size="16" font-family="Nimbus Sans" font-weight="bold"><tspan y="-559.04" x="57.54 67.316 71.764 81.54 91.316 97.54 106.436008 110.884 119.78001 124.228008 128.67601 140.22801 149.12401 153.572 157.78 166.676 171.124 181.79599 191.57199 201.34799 211.124 220.01999 224.46799 236.01999 244.91599 253.65198 263.58799 272.48399 276.93199 286.38798 295.28398 299.73197 311.28398 321.21998 330.11598 334.56398 347.01197 352.91596 362.69197 372.46797 382.24397 386.69197 392.01997 402.05195 411.82795 420.72395 426.05195 435.39595 446.94795 458.59596 469.26795 473.71595 485.26795">Figure 5. Daily Phone Usage by Age Group (Post&#x2212;COVID)</tspan></text>
+</svg>
