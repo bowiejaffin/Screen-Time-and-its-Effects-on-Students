@@ -51,16 +51,19 @@ Real-World Dataset
 
 ## Figures
 
-### Figure 1: Distribution of Screen Time by Age (Ridge Plot)
-![Figure1](https://github.com/bowiejaffin/Screen-Time-and-its-Effects-on-Students/blob/main/figure1project.pdf)
-[Write explanation of what this figure shows]
+### Figure 1: Distribution of Screen Time by Age 
+<img src="https://github.com/bowiejaffin/Screen-Time-and-its-Effects-on-Students/blob/main/figure1project.svg" alt="[IMAGE DESCRIPTION HERE]" width="800">
+
 
 Key insight:
 [Your interpretation]
 
 ---
 
-### Figure 2: Average Screen Time by Age
+### Figure 2 and 3: Average Screen Time by Age and Ratio of Screentime Usage
+
+<img src="https://github.com/bowiejaffin/Screen-Time-and-its-Effects-on-Students/blob/main/figure2project.svg" alt="[IMAGE DESCRIPTION HERE]" width="800">
+<img src="https://github.com/bowiejaffin/Screen-Time-and-its-Effects-on-Students/blob/main/figure3project.svg" alt="[IMAGE DESCRIPTION HERE]" width="800">
 
 [Write explanation of trend, SD, etc.]
 
@@ -69,7 +72,9 @@ Key insight:
 
 ---
 
-### Figure 3: Educational vs Recreational Screen Time Ratio
+### Figure 4: Screen Time and Covid-19 Pandemic
+
+<img src="https://github.com/bowiejaffin/Screen-Time-and-its-Effects-on-Students/blob/main/figure4project.svg" alt="[IMAGE DESCRIPTION HERE]" width="800">
 
 [Explain what this figure shows]
 
@@ -78,7 +83,10 @@ Key insight:
 
 ---
 
-### Figure 4: Health Impact Analysis (Real Data Only)
+### Figure 5 and 6: Impact on Sleep
+
+<img src="https://github.com/bowiejaffin/Screen-Time-and-its-Effects-on-Students/blob/main/figure5project.svg" alt="[IMAGE DESCRIPTION HERE]" width="800">
+<img src="https://github.com/bowiejaffin/Screen-Time-and-its-Effects-on-Students/blob/main/figure6project.svg" alt="[IMAGE DESCRIPTION HERE]" width="800">
 
 [Explain what relationship you are testing here]
 
@@ -86,6 +94,19 @@ Key insight:
 [Your interpretation]
 
 ---
+
+### Figure 7: Screen Time's Impact on Health
+
+<img src="https://github.com/bowiejaffin/Screen-Time-and-its-Effects-on-Students/blob/main/figure4project.svg" alt="[IMAGE DESCRIPTION HERE]" width="800">
+
+[Explain what this figure shows]
+
+Key insight:
+[Your interpretation]
+
+---
+
+
 
 ## Comparison: Simulated vs Real Data
 
