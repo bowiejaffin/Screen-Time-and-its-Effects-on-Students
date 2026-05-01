@@ -52,7 +52,7 @@ Real-World Dataset
 ## Figures
 
 ### Figure 1: Distribution of Screen Time by Age (Ridge Plot)
-
+![Figure1](https://github.com/bowiejaffin/Screen-Time-and-its-Effects-on-Students/blob/main/figure1project.pdf)
 [Write explanation of what this figure shows]
 
 Key insight:
