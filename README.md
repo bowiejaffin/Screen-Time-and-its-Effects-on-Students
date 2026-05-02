@@ -124,7 +124,7 @@ This figure uses the simulated dataset to explore a possible relationship betwee
 - The analysis does suggest a slight difference in screen time usage between respondents aged 23 and above and those below 23, with younger individuals generally reporting higher usage. Within the simulated dataset, there is also evidence of differences between age cohorts, particularly between ages 8–10 and 11–18, although these patterns appear more structured and exaggerated due to the nature of the simulation.
 - Overall, while some variation in screen time across age groups is observed, the relationship between screen time and health impacts remains unclear. There is limited evidence suggesting a potential association between higher screen time and reduced sleep, particularly at more extreme usage levels; however, this pattern is not consistent across all groups.
 - These findings highlight that any observed relationships are weak and should be interpreted with caution, especially given the limitations of both simulated and self-reported data.
-- 
+  
 ---
 
 ## Running this project/Visualizations
