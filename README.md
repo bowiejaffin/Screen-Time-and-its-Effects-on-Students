@@ -1,4 +1,4 @@
-# Screen Time Patterns Among Children: A Comparative Analysis of Simulated and Real-World Data
+# Screen Time Patterns Among Age Groups: A Comparative Analysis of Simulated and Real-World Data
 Bowie Jaffin
 
 ECON 4970
@@ -9,7 +9,7 @@ SPRING 2026
 
 ## Project Overview
 
-This project analyzes how screen time could impact sleep patterns and health outcomes using a real-world survey dataset along with a simulated survey dataset. With simulated data, we can see the clean application of theory or trends found in other data, while a real-world survey provides a glimpse of the messy reality we live in. Together, these datasets help us explore:  
+This project analyzes how screen time varies across age groups and its impact on sleep patterns and health outcomes using a real-world survey dataset along with a simulated survey dataset. With simulated data, we can see the clean application of theory or trends found in other data, while a real-world survey provides a glimpse of the messy reality we live in. Together, these datasets help us explore:  
 ___How does screen time vary across age groups, and to what extent is it associated with changes in sleep patterns and reported health impacts?___
 
 Answering this question using the datasets can help us better understand or think about:
