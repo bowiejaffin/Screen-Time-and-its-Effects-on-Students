@@ -8,26 +8,30 @@ SPRING 2026
 ---
 
 ## Project Overview
-This project analyzes how screen time could have impacts on sleep patterns and health outcomes using real-world survey dataset along with a simulated survey dataset. With simulated data we can see the clean application of theory or trends we find in other data and a real-world survey gives us a glimps of the messy reality we live in. These could maybe help us see ___HHow does screen time vary across age groups, and to what extent is it associated with changes in sleep patterns and reported health impacts___
 
-Awnsering that Question and using the datasets can help us understand or better think about:
-+The prevenlce of screens in our lifes for entertainment and education and its repurcitopns
-+The affect Covid-19 pandemic had on screen time usage 
-+Diffrence in screen usage by age
+This project analyzes how screen time could impact sleep patterns and health outcomes using a real-world survey dataset along with a simulated survey dataset. With simulated data, we can see the clean application of theory or trends found in other data, while a real-world survey provides a glimpse of the messy reality we live in. Together, these datasets help us explore:  
+___How does screen time vary across age groups, and to what extent is it associated with changes in sleep patterns and reported health impacts?___
+
+Answering this question using the datasets can help us better understand or think about:
++ The prevalence of screens in our lives for entertainment and education and their repercussions  
++ The effect the COVID-19 pandemic had on screen time usage  
++ Differences in screen usage by age  
 
 ---
 
 ## Data Sources
-Two diffrent data sets were used within this analysis to help provide diffrent data and information
+
+Two different datasets were used in this analysis to provide varied data and perspectives.
+
 ### Simulated Dataset - [Indian Kids Screentime 2025](https://www.kaggle.com/datasets/ankushpanday2/indian-kids-screentime-2025)
-- Simulated 9712 Indian kids aged 8-18 survery responses
-- Key variables in the data include age, gender, average screen time, educational to recrational usage ratio, and health impacts
-- It was created as way to help show the rise in screen time among indian children.
+- Simulated 9,712 survey responses from Indian children aged 8–18  
+- Key variables include age, gender, average screen time, educational-to-recreational usage ratio, and health impacts  
+- Created to help illustrate the rise in screen time among Indian children  
 
 ### Real-World Dataset - [Digital Device Usage and Psychological Well-Being in the Post-COVID-19 Era](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/W5GNLE)
-- Data is sourced from Harvard Dataverse
-- Anoymirzed survey of 622 partipants of various ages, proffessions, and backgrounds no real stated exact data
-- Key Variables in the data include age, sleep pattern, daily phone usage before durning and after Covid-19
+- Data sourced from Harvard Dataverse  
+- An anonymized survey of 622 participants of various ages, professions, and backgrounds  
+- Key variables include age, sleep patterns, and daily phone usage before, during, and after COVID-19  
 
 ---
 
@@ -124,6 +128,6 @@ This figure uses the simulated dataset to explore a possible relationship betwee
 ---
 
 ## Running this project/Visualizations
-1. Download [Indian Kids Screentime 2025](https://www.kaggle.com/datasets/ankushpanday2/indian-kids-screentime-2025) and [Digital Device Usage and Psychological Well-Being in the Post-COVID-19 Era](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/W5GNLE)
-2.Download the R files within the respository
-3.Follow instructions within the file to see the visualizations and be able to read through datasets before and after changes to understand work.
+1. Download [Indian Kids Screentime 2025](https://www.kaggle.com/datasets/ankushpanday2/indian-kids-screentime-2025) and [Digital Device Usage and Psychological Well-Being in the Post-COVID-19 Era](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/W5GNLE) (Datasets as they existed when the project was done are included in the repository)
+2. Download the R files within the respository
+3. Follow instructions within the file to see the visualizations and be able to read through datasets before and after changes to understand work.
