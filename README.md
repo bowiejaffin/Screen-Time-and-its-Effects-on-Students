@@ -64,37 +64,37 @@ The real-world dataset was used to analyze observed patterns in screen time beha
 ## Visualizations and Findings
 
 ### Figure 1: Distribution of Screen Time by Age 
-<img src="https://github.com/bowiejaffin/Screen-Time-and-its-Effects-on-Students/blob/main/figure1project.svg" alt="[IMAGE DESCRIPTION HERE]" width="800">
+<img src="https://github.com/bowiejaffin/Screen-Time-and-its-Effects-on-Students/blob/main/Figures/figure1project.svg" alt="[IMAGE DESCRIPTION HERE]" width="800">
 Using the simulated data we can see that for ages 11-18 have a low varience in screen time usage but 8-10 have a much larger varience but this can not be said to indicate a trend. This may also reflect limitations in how the simulated data was generated, particularly for younger age groups,
 
 ---
 
 ### Figure 2 and 3: Average Screen Time by Age and Ratio of Screentime Usage
 
-<img src="https://github.com/bowiejaffin/Screen-Time-and-its-Effects-on-Students/blob/main/figure2project.svg" alt="[IMAGE DESCRIPTION HERE]" width="800">
-<img src="https://github.com/bowiejaffin/Screen-Time-and-its-Effects-on-Students/blob/main/figure3project.svg" alt="[IMAGE DESCRIPTION HERE]" width="800">
+<img src="https://github.com/bowiejaffin/Screen-Time-and-its-Effects-on-Students/blob/main/Figures/figure2project.svg" alt="[IMAGE DESCRIPTION HERE]" width="800">
+<img src="https://github.com/bowiejaffin/Screen-Time-and-its-Effects-on-Students/blob/main/Figures/figure3project.svg" alt="[IMAGE DESCRIPTION HERE]" width="800">
 These figures show again that there are two distinct groupings in the data: ages 8–10 and those aged 11–18. Within each group, the averages and standard deviations are relatively consistent, particularly among ages 11–18. This better illustrates how the variability is more uniform within these groups, and suggests that the data used may not fully capture real-world variation due to limitations in how the simulated data was generated.
 
 ---
 
 ### Figure 4: Screen Time and Covid-19 Pandemic
 
-<img src="https://github.com/bowiejaffin/Screen-Time-and-its-Effects-on-Students/blob/main/figure4project.svg" alt="[IMAGE DESCRIPTION HERE]" width="800">
+<img src="https://github.com/bowiejaffin/Screen-Time-and-its-Effects-on-Students/blob/main/Figures/figure4project.svg" alt="[IMAGE DESCRIPTION HERE]" width="800">
 The figure shows that there is a sizeable change in reported screen time during and after the COVID-19 pandemic. While the most extreme change occurs during the pandemic, with a partial return to previous levels afterward, it suggests that the pandemic may have led to lasting changes in people’s habits. Something to keep in mind is that this data is self-reported daily phone usage and could be influenced by respondents not accurately remembering their usage from 6–7 years ago.
 
 ---
 
 ### Figure 5 and 6: Impact on Sleep
 
-<img src="https://github.com/bowiejaffin/Screen-Time-and-its-Effects-on-Students/blob/main/figure5project.svg" alt="[IMAGE DESCRIPTION HERE]" width="800">
-<img src="https://github.com/bowiejaffin/Screen-Time-and-its-Effects-on-Students/blob/main/figure6project.svg" alt="[IMAGE DESCRIPTION HERE]" width="800">
+<img src="https://github.com/bowiejaffin/Screen-Time-and-its-Effects-on-Students/blob/main/Figures/figure5project.svg" alt="[IMAGE DESCRIPTION HERE]" width="800">
+<img src="https://github.com/bowiejaffin/Screen-Time-and-its-Effects-on-Students/blob/main/Figures/figure6project.svg" alt="[IMAGE DESCRIPTION HERE]" width="800">
 The shown figures show a slight but not significant difference in daily phone usage and sleep outcomes between the two age groups. Respondents below the age of 23 use their phones slightly more overall, with the largest differences appearing in the 8–11 hour and 0–4 hour usage categories compared to those aged 23 and above. We can also observe that within the below 23 age group, individuals with higher daily phone usage tend to have a greater share reporting less than 6 hours of sleep. However, this pattern is not consistently observed in the 23 and above group, meaning it cannot be used to establish a clear relationship between phone usage and sleep. Additionally, this analysis uses only post-COVID-19 data, as it is the most recent and likely the most accurate representation of reported behavior.
 
 ---
 
 ### Figure 7: Screen Time's Impact on Health
 
-<img src="https://github.com/bowiejaffin/Screen-Time-and-its-Effects-on-Students/blob/main/figure7.svg" alt="[IMAGE DESCRIPTION HERE]" width="800">
+<img src="https://github.com/bowiejaffin/Screen-Time-and-its-Effects-on-Students/blob/main/Figures/figure7.svg" alt="[IMAGE DESCRIPTION HERE]" width="800">
 This figure uses the simulated dataset to explore a possible relationship between screen time and its impact on health. Symptom severity is not based on the specific symptoms reported by respondents, but rather on the number of symptoms reported, with minor representing one symptom, mild two, and so on. The figure could suggest that individuals with around 5 hours of screen time report worse health outcomes; however, the overall distributions are quite similar across all symptom severity groups. This overlap indicates that there is no strong relationship between screen time and health outcomes in the dataset. The somewhat “black and white” appearance of the results may be due to the simulated nature of the data, where input assumptions can make differences appear more uniform than they would be in real-world populations.
 
 ---
